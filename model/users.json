@@ -1,0 +1,27 @@
+[
+  {
+    "username": "Aisha",
+    "roles": {
+      "Admin": 5001,
+      "Editor": 2002,
+      "User": 2023
+    },
+    "password": "$2b$10$UNZa4Z2QzIIJBv2JFIWNOO767qUfiAgllNrH53D3O4JHsam/deWqO",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkZhdmlqIiwiaWF0IjoxNjk2MTA3MjEyLCJleHAiOjE2OTYxOTM2MTJ9.7mgh307rx2NqpMX-C2FuXGiq-2_wSPq-Ene2fkR7TH8"
+  },
+  {
+    "username": "Tola",
+    "roles": {
+      "User": 2023
+    },
+    "password": "$2b$10$oCsqFb14k.0tm9JbopV4vO32pwaR1ILJ3rFSByBXvJ/xalBNt7DAq"
+  },
+  {
+    "username": "Femi",
+    "roles": {
+      "Editor": 2002,
+      "User": 2023
+    },
+    "password": "$2b$10$G4U.zSb7uwWrkXfLv0zg8.Csu/q3xa9sy0VKtaX7sNaJNOTBTpcPm"
+  }
+]
